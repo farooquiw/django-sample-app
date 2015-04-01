@@ -3,7 +3,7 @@ import os
 import sys
 
 # Django settings for ProjectName project.
-
+# This is first build
 DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
